@@ -66,7 +66,7 @@ The AI's "glitches" are a core feature. We implemented CSS and JavaScript to cre
 
 1. **Clone the digital ruins:**
    ```bash
-   git clone <your-repo-url>
+   git clone  https://github.com/Rajbharti06/ApocalypseGPT-The-Last-Helpful-AI-After-Civilization-Collapsed 
    cd ApocalypseGPT
    ```
 
