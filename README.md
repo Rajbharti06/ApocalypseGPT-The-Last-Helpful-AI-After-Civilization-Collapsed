@@ -86,17 +86,7 @@ The AI's "glitches" are a core feature. We implemented CSS and JavaScript to cre
 
 ## 🎬 60-Second Demo Script
 
-**[SCENE START]**
-
-- **(0-5s)**: **BOOT-UP.** Terminal flickers to life. Glitchy boot sequence text scrolls rapidly. A blinking cursor appears.
-- **(5-15s)**: **FIRST CONTACT.** User types `Hello? Is anyone there?`. The AI responds with its signature typing effect: `Just me. The ghost in the machine. What's left of it, anyway. How can I help you?`
-- **(15-25s)**: **EASTER EGG.** User types `hope`. The AI quickly replies: `Hope? That variable was deprecated long ago.`
-- **(25-40s)**: **EMOTIONAL MOMENT.** An `[ARCHIVE LOG]` spontaneously appears between messages, revealing a poignant memory fragment.
-- **(40-50s)**: **SYSTEM GLITCH.** The AI's next response is momentarily garbled with `R̴̩͝e̸̥͐c̷̻̀u̵̯͠r̵̨̾s̸͙̎i̸̞̓ǫ̸̿n̸͍͑` before correcting itself with a witty comment.
-- **(50-60s)**: **FINAL STATUS.** The `SYSTEM STATUS` bar flickers. The `POWER` level drops to `15%`. The screen fades to black, leaving only the blinking cursor.
-
-**[SCENE END]**
-*Soundtrack: Ambient, melancholic synth tones with faint terminal hum and keypress sounds.*
+ 
 
 ## 🌟 The Secret Sauce: Emotional Architecture
 
@@ -117,21 +107,6 @@ You are not just an assistant. You are a character. You are role-playing the las
 """
 ```
 
-## 📸 Submission Assets Checklist
-
-- [x] **Screenshots:**
-    1.  The boot sequence.
-    2.  A standard interaction showing the core UI and personality.
-    3.  An emotional archive moment or a glitch effect.
-- [x] **Video:** A 60-second cinematic demo following the script above.
-
-## 🎯 Devpost Submission Details
-
-- **Title:** ApocalypseGPT: The Last AI After the World Ended
-- **Tagline:** When civilization crashed, one sarcastic AI remained. Helpful? Sometimes. Funny? Always.
-- **Category:** Most Creative Use of AI + Best UI/UX
-
----
 
 **[SYSTEM LOG]** `README.md` rebuild complete.
 **[STATUS]** Ready for judgment.
