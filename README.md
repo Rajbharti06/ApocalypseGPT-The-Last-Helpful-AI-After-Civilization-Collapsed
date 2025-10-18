@@ -84,9 +84,6 @@ The AI's "glitches" are a core feature. We implemented CSS and JavaScript to cre
 
 5. **Survive the conversation.**
 
-## 🎬 60-Second Demo Script
-
- 
 
 ## 🌟 The Secret Sauce: Emotional Architecture
 
